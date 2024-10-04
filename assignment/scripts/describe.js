@@ -59,11 +59,12 @@ if (name === 'Mary') {
 
 // 2.
 // DESCRIPTION:
-// 
-// 
-// 
-//
-// OUTCOME:
+// we create an undefined variable 'secret'
+// we also create a variable 'code' and set the value to 123.
+// we create an if clause to check the value of code to see if it is equal to 123
+// if the value equals 123 secret will be 'super' and then will multiply the value of code by two.
+// we create a new if clause to check if the new value of code is greater than 250
+// OUTCOME: 'super' will be the logged outcome.
 //
 
 // CODE:
