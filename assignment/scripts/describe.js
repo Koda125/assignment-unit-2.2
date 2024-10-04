@@ -90,11 +90,17 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
+// we create a variable a 'isStudent' and set the boolen to 'true'
+// we create a number variable 'age' and set the value to 34
+// we create an additional number variable 'zip' to 55407
+// then we create an if clause to see if student is equal to true and if 'zip' is greater than 80000
+// we creat an else if statment to run if the first if statment is invalid
+// else if will check to see if 'isStudent' is false and if age is less than 30.
+// we create one more else if to check if 'isStudent' equal to 'true'
+// we create an else statment to run if all the other statments are false to check if 'isStudent' is equal to 'true'.
 // 
-// 
-// 
-//
-// OUTCOME:
+
+// OUTCOME: 'Welcome to Prime!' will be logged. 
 //
 
 // CODE:
