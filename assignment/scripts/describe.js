@@ -165,6 +165,7 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+// Fix- colorOne changed to blue and colorTwo to red.
 
 if (mix === true) {
   colorOne = 'purple';
@@ -184,6 +185,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
+// Fix -- const time to set time as time should not be a constant variable in this situation. 
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
@@ -209,4 +211,5 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+  Fix -- swap if console log 'no entry' with else console log 'enter'
 */
