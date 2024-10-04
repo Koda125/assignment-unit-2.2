@@ -33,14 +33,14 @@ if (number >= 2) {
 
 // 1.
 // DESCRIPTION
-// 
-// 
+// we make a variable and set it to 'Dane'
+// We create an if clause to check the name
+// We then check if the name is 'Mary'
+//if it is mary, 'Hi, Mary!' will be logged.
+//If it is not 'Mary', the code will go with the else statement 'How do you do?' will then be logged.
 //
 //
-//
-//
-//
-// OUTCOME:
+// OUTCOME: 'How do you do?' is what will be logged. 
 //
 
 // CODE:
