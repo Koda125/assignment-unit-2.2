@@ -90,12 +90,12 @@ console.log(secret)
 
 // 3.
 // DESCRIPTION
-// we create a variable a 'isStudent' and set the boolen to 'true'
+// we create a variable 'isStudent' and set the boolen to 'true'
 // we create a number variable 'age' and set the value to 34
 // we create an additional number variable 'zip' to 55407
 // then we create an if clause to see if student is equal to true and if 'zip' is greater than 80000
 // we creat an else if statment to run if the first if statment is invalid
-// else if will check to see if 'isStudent' is false and if age is less than 30.
+// else if will check to see if 'isStudent' is false or if age is less than 30.
 // we create one more else if to check if 'isStudent' equal to 'true'
 // we create an else statment to run if all the other statments are false to check if 'isStudent' is equal to 'true'.
 // 
@@ -165,7 +165,7 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
-// Fix- colorOne changed to blue and colorTwo to red.
+// Fix- colorOne changed to blue and colorTwo to red. The If statement should also change colorTwo to Purple.
 
 if (mix === true) {
   colorOne = 'purple';
@@ -185,7 +185,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-// Fix -- const time to set time as time should not be a constant variable in this situation. 
+// Fix -- const time to set time as time should not be a constant variable in this situation. Change the OR lines to &&.
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
